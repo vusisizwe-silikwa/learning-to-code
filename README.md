@@ -1,2 +1,2 @@
-# learning-to-code.github.io
+# learning-to-code.github
 something to do with coding
